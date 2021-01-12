@@ -1,0 +1,280 @@
+.navbar .nav-link{
+    width: 100px;
+    border-radius: 20%;
+}
+
+.dropdown{
+    margin-right: 70%;
+}
+.header img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+.card-img-overlay{
+width: 220px;
+    margin-left: 90px;
+    margin-top: 150px;
+    box-sizing: border-box;
+
+}
+.btn{
+    width: 90%;
+    height: 40px;
+}
+.card-img-overlay .nav-link{
+    height: 50px;
+    width: 240px;
+    background-color: transparent;
+
+}
+.nav-link img{
+    width: 30px;
+    height: 30px;
+}
+.das{
+    width: 40px;
+    height: 40px;
+    background-color: #ff6669;
+    border-radius: 50%;
+    box-shadow: 0 0 15px black;
+    box-sizing: border-box;
+}
+.das img{
+    width: 30px;
+    height: 30px;
+}
+.des{
+    width: 40px;
+    height: 40px;
+    background-color: #fdff95;
+    border-radius: 50%;
+    box-shadow: 0 0 15px black;
+    box-sizing: border-box;
+}
+.des img{
+    width: 30px;
+    height: 30px;
+}
+.daf{
+    width: 40px;
+    height: 40px;
+    background-color: #89c1ff;
+    border-radius: 50%;
+    box-shadow: 0 0 15px black;
+    box-sizing: border-box;
+}
+.daf img{
+    width: 30px;
+    height: 30px;
+}
+.mt-5{
+    font-size: 20px;
+}
+.w-75 img{
+    width: 40px;
+    height: 25px;
+}
+.col-lg-1 img{
+    width: 20px;
+    height: 10px;
+}
+.col-lg-1 .btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.col-sm-2{
+    margin-left: 860px;
+}
+.card-body{
+    width: 100%;
+}
+.input-group{
+    width: 500px ;
+}
+.card .bg-white{
+    width: 30%;
+    height: 20%;
+}
+.lol{
+    width: 400px;
+    height: 100px;
+    box-sizing: border-box;
+}
+.border img{
+    width: 100%;
+    height: 40%;
+}
+.col-4 .border{
+    width: 80%;
+    height: 100%;
+    box-sizing: border-box;
+    box-shadow: 0 0  5px black;
+    position: relative;
+}
+.col-4 .border:hover{
+    box-shadow: 0 0  25px blue;
+}
+.col-4 .border:hover .xox {
+    background-color: blue;
+    color: white;
+}
+.xox {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 1px solid #8cc4ff;
+    border-radius: 50%;
+    text-align: center;
+}
+.man{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    background-color: #17c482;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 105px;
+}
+.hop{
+    width: 80%;
+    height: 100%;
+    border: 4px solid #6c757d;
+    border-style: dashed;
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    padding-top: 35%;
+}
+.non{
+    margin-left: 80px;
+}
+.pos{
+    width: 40px;
+    height: 20px;
+    border: 1px solid #8cc4ff;
+    border-radius: 30% 30% 30% 0 ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 205px;
+    top: 330px;
+    font-size: 15px;
+
+}
+
+.col-12{
+    position: relative;
+}
+.lll{
+    width: 100%;
+}
+.navbar .navbar-light{
+    width: 100%;
+}
+.nav-item .border-right a{
+    margin: 0;
+}
+.FER{
+    width: 180px;
+    text-align: center;
+    border-radius: 10%;
+}
+.jjj.btn-light .ml-5{
+    width: 100px;
+    height: 100px;
+
+}
+.ert img{
+    width: 20px;
+    height: 20px;
+}
+.ert{
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+    margin-left: 14px;
+    border-radius: 50%;
+    background-color: silver;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lds-grid {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.lds-grid div {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #383ac4;
+    animation: lds-grid 1.2s linear infinite;
+}
+.lds-grid div:nth-child(1) {
+    top: 8px;
+    left: 8px;
+    animation-delay: 0s;
+}
+.lds-grid div:nth-child(2) {
+    top: 8px;
+    left: 32px;
+    animation-delay: -0.4s;
+}
+.lds-grid div:nth-child(3) {
+    top: 8px;
+    left: 56px;
+    animation-delay: -0.8s;
+}
+
+@keyframes lds-grid {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
